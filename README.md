@@ -17,28 +17,21 @@ The rest of the code is my work unless stated otherwise.
 
 ## Files
 
-* bv.{c, h}
-  - Implementation of bit vector ADT.
+	 bv.{c, h}        Implementation of bit vector ADT.
 
-* bm.{c, h} 
-  - Implementation of the bit matrix ADT.
+	 bm.{c, h}        Implementation of the bit matrix ADT.
 
-* hamming.{c, h}
-  - Implementation of Hamming decoding and encoding logic.
+	 hamming.{c, h}   Implementation of Hamming decoding and encoding logic.
 
-* encode.c
-  - Encoder program.
+	 encode.c         Encoder program.
 
-* decode.c 
-  - Decoder program.
+	 decode.c         Decoder program.
 
-* error.c 
-  - Program given by Prof. Long that injects errors into data.
+	 error.c          Program given by Prof. Long that injects errors into data.
 
-* entropy.c
-  - Program given by Prof. Long that calculates the entropy of data.
+	 entropy.c        Program given by Prof. Long that calculates the entropy of data.
 
-* Makefile
+	 Makefile
 
 ## Makefile
 
